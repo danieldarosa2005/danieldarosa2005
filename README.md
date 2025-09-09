@@ -13,5 +13,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div></br>
-Cursando Análise e Desenvolvimento de Sistemas pela Uniasselvi (3/5)</br>
+Cursando Análise e Desenvolvimento de Sistemas pela Uniasselvi (4/5)</br>
 Investindo meu tempo em aprender e aprimorar linguagens e tecnologias para resolver problemas
